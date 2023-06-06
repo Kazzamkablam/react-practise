@@ -1,0 +1,21 @@
+/* SubmitButton.css */
+.submit-button {
+    margin-top: 20px;
+}
+
+.submit-button button {
+    padding: 10px 20px;
+    font-size: 1em;
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.submit-button button:hover {
+    background-color: #45a049;
+}

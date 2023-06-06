@@ -1,0 +1,12 @@
+.personal-details {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .personal-details input {
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+  }

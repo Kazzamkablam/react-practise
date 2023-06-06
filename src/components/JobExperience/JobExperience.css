@@ -1,0 +1,22 @@
+.job-experience {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .job-experience .job {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  .job-experience input, .job-experience button {
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+  }
