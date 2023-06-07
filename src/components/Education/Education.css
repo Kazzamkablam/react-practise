@@ -20,3 +20,8 @@
     border-radius: 5px;
     border: 1px solid #ddd;
   }
+
+  
+  .education .input-error {
+    background-color: red;
+  }
