@@ -20,3 +20,7 @@
     border-radius: 5px;
     border: 1px solid #ddd;
   }
+
+  .job-experience .input-error {
+    background-color: red;
+  }
